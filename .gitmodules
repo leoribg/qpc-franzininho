@@ -1,0 +1,3 @@
+[submodule "components/qpc/qpc"]
+	path = components/qpc/qpc
+	url = git@github.com:leoribg/qpc-esp32.git
