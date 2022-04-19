@@ -74,7 +74,7 @@ QTimeEvt_armX(&amp;me-&gt;timeEvt,
       <entry box="1,2,12,4"/>
      </state_glyph>
     </state>
-    <state_diagram size="26,32"/>
+    <state_diagram size="31,35"/>
    </statechart>
   </class>
   <!--${AOs::Blinky_ctor}-->
